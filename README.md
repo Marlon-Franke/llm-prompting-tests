@@ -1,8 +1,6 @@
 # Prompting Tests für LLMs – TaxTech/LegalTech-Edition
 
-30 anspruchsvolle Prompts zum Testen von LLMs, Coding Agents und agentischen Modellen – individualisiert auf Steuerberatung, Wirtschaftsprüfung und Rechtsberatung. Die Grundlogik der Original-Prompts (Systemsimulation, 3D-Rendering, agentische Dateisystemarbeit, State Management) bleibt jeweils erhalten; Fachlogik und Domänenwissen kommen als zusätzliche Prüfungsebene hinzu.
-
-Redaktioneller Hinweis: Die Prompts 17–21 lagen im Original nur als verlinkte Kurzbeschreibungen vor. Sie wurden hier als vollständige, eigenständige Prompts ausformuliert. Die Prompts 22–25 sind neu.
+30 anspruchsvolle Prompts zum Testen von LLMs, Coding Agents und agentischen Modellen – TaxTech/LegalTech-Kontext für Steuerberatung, Wirtschaftsprüfung und Rechtsberatung. Die Grundlogik (Systemsimulation, 3D-Rendering, agentische Dateisystemarbeit, State Management) bleibt jeweils erhalten; Fachlogik und Domänenwissen kommen als zusätzliche Prüfungsebene hinzu.
 
 ---
 
