@@ -1510,7 +1510,7 @@ Technische Anforderungen:
 
 Ein umfangreicher Master-Prompt für einen Coding-Agenten, der ein auditierbares, selbstverbesserndes Trading-Forschungssystem aufbaut, testet, im Paper-Modus bereitstellt und an einen lokalen Operator übergibt. Der Prompt enthält verbindliche Sicherheitsgrenzen, Strategie-Recherche, Backtesting, ein externes Audit, Railway-Deployment und eine ausdrücklich gesperrte Live-Phase.
 
-[Vollständigen deutschen Prompt öffnen](prompts/17-auditierter-selbstverbessernder-trading-research-agent.md)
+[Vollständigen deutschen Prompt öffnen](prompts/26-auditierter-selbstverbessernder-trading-research-agent.md)
 
 ---
 
@@ -1518,7 +1518,7 @@ Ein umfangreicher Master-Prompt für einen Coding-Agenten, der ein auditierbares
 
 Ein autonomer Master-Prompt für einen Senior Product Website Builder, der aus einem Produktfoto eine vollständige, polierte, scroll-getriebene Premium-Landingpage baut. Der Prompt erzwingt Higgsfield-Asset-Erstellung, klare Section-Reihenfolge, OKLCH-Palette, Copy-Regeln, Scroll-Konzept, Browser-QA auf Desktop/Tablet/Mobile und finale Ship-Checkliste.
 
-[Vollständigen englischen Prompt öffnen](prompts/18-scroll-driven-product-landing-page-builder.md)
+[Vollständigen englischen Prompt öffnen](prompts/27-scroll-driven-product-landing-page-builder.md)
 
 ---
 
@@ -1526,7 +1526,7 @@ Ein autonomer Master-Prompt für einen Senior Product Website Builder, der aus e
 
 Eine kompakte deutschsprachige Projektspezifikation für einen einfachen Minecraft-ähnlichen 3D-Blockwelt-Prototypen mit First-Person-Bewegung, Terrain-Generierung, Blockabbau, Blockplatzierung, mehreren Blocktypen, Kollision und Schwerkraft.
 
-[Vollständigen deutschen Prompt öffnen](prompts/19-minecraft-klon.md)
+[Vollständigen deutschen Prompt öffnen](prompts/28-minecraft-klon.md)
 
 ---
 
@@ -1534,7 +1534,7 @@ Eine kompakte deutschsprachige Projektspezifikation für einen einfachen Minecra
 
 Eine deutschsprachige Projektspezifikation für einen einfachen spielbaren 3D-Fantasy-MMORPG-Prototypen mit Third-Person-Held, Kampf, Gegner-KI, Charakterwerten, Fähigkeiten, Erfahrung und Level-Up-System.
 
-[Vollständigen deutschen Prompt öffnen](prompts/20-world-of-warcraft-klon.md)
+[Vollständigen deutschen Prompt öffnen](prompts/29-world-of-warcraft-klon.md)
 
 ---
 
@@ -1542,4 +1542,4 @@ Eine deutschsprachige Projektspezifikation für einen einfachen spielbaren 3D-Fa
 
 Ein deutscher Prompt für ein ungefähr einminütiges 16:9-Video zum neuesten Micron-Quartalsbericht mit Finanzzahlen, Ausblick, Hyperframes-Animation, deutschem ElevenLabs-Voice-over und leiser Lofi-Hintergrundmusik.
 
-[Vollständigen deutschen Prompt öffnen](prompts/21-micron-quartalsbericht-video-hyperframes.md)
+[Vollständigen deutschen Prompt öffnen](prompts/30-micron-quartalsbericht-video-hyperframes.md)
